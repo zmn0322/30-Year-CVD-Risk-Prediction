@@ -4,7 +4,7 @@ An, J., Zhang, Y., Zhou, H., Zhou, M., Safford, M. M., Muntner, P., Moran, A. E.
 
 
 The first step is to download Risk_calculator_import.sas7bdat(Can be found in this repository) and save it in your study directory. The data includes important prediction calculation information.
-
+If have any issue to open Risk_calculator_import.sas7bdat, Please download Risk_calculator_import.xlsx and import to SAS.
 
 To run the Macro, need to define the parameters: 
 
@@ -27,5 +27,7 @@ The Inputdata must be at individual level and other than ID need to have the var
 •	Risk_HTN = binary variable - use of antihypertensive treatment.
 
 For further information or assistance with this code, please reach out to the main author - Matt Zhou by email mengnan.m.zhou@kp.org
+
+
 
 
